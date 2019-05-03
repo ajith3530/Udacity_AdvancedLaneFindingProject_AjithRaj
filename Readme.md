@@ -23,9 +23,9 @@ The goals / steps of this project are the following:
 
 ---
 
-#### 1. Provide a Writeup / README that includes all the rubric points and how you addressed each one.  You can submit your writeup as markdown or pdf.  [Here](https://github.com/udacity/CarND-Advanced-Lane-Lines/blob/master/writeup_template.md) is a template writeup for this project you can use as a guide and a starting point.  
+#### 1. Provide a Writeup / README that includes all the rubric points and how you addressed each one.  
 
-Congratulations, ou're reading it!
+Congratulations, you're reading it!
 
 ### Camera Calibration
 
@@ -237,6 +237,7 @@ calculation intensive.
     righty = nonzeroy[right_lane_inds]  
 ```
 An illustration of a Detected Lane Marking is added below.
+
 ![alt text][image5]
 
 #### 5. Describe how (and identify where in your code) you calculated the radius of curvature of the lane and the position of the vehicle with respect to center.
